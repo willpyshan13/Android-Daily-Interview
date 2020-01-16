@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+  <a href="https://github.com/Moosphan/Android-Daily-Interview" target="_blank">
 	  <img src="https://raw.githubusercontent.com/Moosphan/SelfAssetRepository/9771fdbac7a687011cd2f286eccd97a7ffeea27b/github/images/interview_logo.png" width="400" height="216"/>
   </a>
 </p>
@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-08-26）
+## 今日面试题 （2020-01-16）
 
-### [谈一谈TCP/IP三次握手，四次挥手？](https://github.com/Moosphan/Android-Daily-Interview/issues/129)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/129)
+### [为什么ViewPager嵌套ViewPager，内部的ViewPager滚动没有被拦截？](https://github.com/Moosphan/Android-Daily-Interview/issues/235)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/235)
 
 ## 如何贡献？
 
@@ -32,6 +32,104 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 216 期**：[**你了解过哪些Android屏幕适配方面的技巧？**](https://github.com/Moosphan/Android-Daily-Interview/issues/234)
+- **第 215 期**：[**为什么协程比线程要轻量？**](https://github.com/Moosphan/Android-Daily-Interview/issues/233)
+- **第 214 期**：[**为什么要将项目迁移到AndroidX？如何进行迁移？**](https://github.com/Moosphan/Android-Daily-Interview/issues/232)
+- **第 213 期**：[**Kotlin中集合遍历有哪几种方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/231)
+- **第 212 期**：[**如何判断单链表交叉？**](https://github.com/Moosphan/Android-Daily-Interview/issues/230)
+- **第 211 期**：[**请说说Java中String.length()的运作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/229)
+- **第 210 期**：[**谈一谈RxJava背压原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/228)
+- **第 209 期**：[**在开发过程中你遇到过的最大的难题是什么？如何解决的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/227)
+- **第 208 期**：[**Post中请求参数放在了哪个位置？**](https://github.com/Moosphan/Android-Daily-Interview/issues/226)
+- **第 207 期**：[**分别通过对象表达式object和lambda表达式实现的函数式接口内部有何不同？**](https://github.com/Moosphan/Android-Daily-Interview/issues/224)
+- **第 206 期**：[**TCP/IP协议分为哪几层？TCP和HTTP分别属于哪一层？**](https://github.com/Moosphan/Android-Daily-Interview/issues/223)
+- **第 205 期**：[**什么是Lifecycle？请分析其内部原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/222)
+- **第 204 期**：[**说说HttpClient与HttpUrlConnection的区别？为何前者会被替代？**](https://github.com/Moosphan/Android-Daily-Interview/issues/221)
+- **第 203 期**：[**Android中View的几种位移方式的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/220)
+- **第 202 期**：[**对于GIF 格式的图片加载有什么思路和建议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/219)
+- **第 201 期**：[**为什么说Http是可靠的数据传输协议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/218)
+- **第 200 期**：[**Kotlin中的数据类型有隐式转换吗？为什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/217)
+- **第 199 期**：[**有了解过WindowInsets吗？它有哪些应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/216)
+- **第 198 期**：[**谈一谈Java成员变量，局部变量和静态变量的创建和回收时机？**](https://github.com/Moosphan/Android-Daily-Interview/issues/215)
+- **第 197 期**：[**如何绕过Android9.0针对反射的限制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/214)
+- **第 196 期**：[**谈一谈Activity、View 和 Window三者的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/213)
+- **第 195 期**：[**说说你是如何进行单元测试的？以及如何应用在MVP和MVVM中？**](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
+- **第 194 期**：[**请说说依赖注入框架ButterKnife的实现原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/211)
+- **第 193 期**：[**谈一谈Android的屏幕刷新机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/210)
+- **第 192 期**：[**说说Kotlin中的Any与Java中的Object有何异同？**](https://github.com/Moosphan/Android-Daily-Interview/issues/209)
+- **第 191 期**：[**谈一谈java线程安全的集合有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/208)
+- **第 190 期**：[**请谈谈如何加载Bitmap并防止内存溢出？**](https://github.com/Moosphan/Android-Daily-Interview/issues/207)
+- **第 189 期**：[**ViewModel的出现是为了解决什么问题？并简要说说它的内部原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/205)
+- **第 188 期**：[**谈一谈ViewDragHelper的工作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/204)
+- **第 187 期**：[**谈谈你对Window和WindowManager的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/203)
+- **第 186 期**：[**谈一谈RecyclerView.Adapter的几种数据刷新方式有何不同？**](https://github.com/Moosphan/Android-Daily-Interview/issues/202)
+- **第 185 期**：[**Kotlin中该如何安全地处理可空类型？**](https://github.com/Moosphan/Android-Daily-Interview/issues/201)
+- **第 184 期**：[**webp和svg格式的图片各自有什么特点？应该如何在Android中使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/200)
+- **第 183 期**：[**谈一谈SurfaceView与TextureView的使用场景和用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/199)
+- **第 182 期**：[**谈谈Kotlin中的Unit？它和Java中的void有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/198)
+- **第 181 期**：[**谈一谈Glide的缓存机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/197)
+- **第 180 期**：[**Kotlin中可见型修饰符有哪些？相比于Java有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/196)
+- **第 179 期**：[**什么是BlockingQueue？请分析一下其内部原理并谈谈它的使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/194)
+- **第 178 期**：[**谈谈网络请求中的拦截器 - Interceptor 的原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/193)
+- **第 177 期**：[**假如让你实现断点上传功能，你认为应该怎样去做？**](https://github.com/Moosphan/Android-Daily-Interview/issues/192)
+- **第 176 期**：[**谈一谈自定义View和ViewGroup的流程以及区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/191)
+- **第 175 期**：[**请谈谈Kotlin中的Coroutines，它与线程有什么区别？有哪些优点？**](https://github.com/Moosphan/Android-Daily-Interview/issues/190)
+- **第 174 期**：[**说说循环队列？它有哪些应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/189)
+- **第 173 期**：[**谈谈Kotlin中的Sequence，为什么它处理集合操作更加高效？**](https://github.com/Moosphan/Android-Daily-Interview/issues/188)
+- **第 172 期**：[**谈一谈Android的签名机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/187)
+- **第 171 期**：[**请谈谈invalidate()和postInvalidate()方法的区别和应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/186)
+- **第 170 期**：[**请谈谈View.inflate和LayoutInflater.inflate**](https://github.com/Moosphan/Android-Daily-Interview/issues/185)
+- **第 169 期**：[**请谈谈你是如何实现数据埋点的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/184)
+- **第 168 期**：[**谈一谈责任链模式的使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/183)
+- **第 167 期**：[**什么是MVVM？你是如何将其应用于具体项目中的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/182)
+- **第 166 期**：[**谈谈RecyclerView的缓存机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/181)
+- **第 165 期**：[**谈谈Kotlin中的构造方法？有哪些注意事项？**](https://github.com/Moosphan/Android-Daily-Interview/issues/180)
+- **第 164 期**：[**什么是AOP？在Android中它有哪些应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/179)
+- **第 163 期**：[**谈一谈Fragment懒加载？**](https://github.com/Moosphan/Android-Daily-Interview/issues/178)
+- **第 162 期**：[**关于LayoutInflater，它是如何通过 inflate 方法获取到具体View的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/177)
+- **第 161 期**：[**谈一谈EventBus的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/176)
+- **第 160 期**：[**有用过ConstraintLayout吗？它有哪些特点？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/175)
+- **第 159 期**：[**请谈谈源码中StaticLayout的用法和应用场景？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/174)
+- **第 158 期**：[**谈一谈Android P禁用http对我们开发有什么影响？**](https://github.com/Moosphan/Android-Daily-Interview/issues/173)
+- **第 157 期**：[**请谈谈什么是同步屏障？**](https://github.com/Moosphan/Android-Daily-Interview/issues/171)
+- **第 156 期**：[**Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/170)
+- **第 155 期**：[**在Kotlin中，什么是内联函数？有什么作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/169)
+- **第 154 期**：[**说说Activity加载的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/168)
+- **第 153 期**：[**什么是快速排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/167)
+- **第 152 期**：[**Java与JS代码如何互调？有做过相关优化吗？**](https://github.com/Moosphan/Android-Daily-Interview/issues/166)
+- **第 151 期**：[**静态代理和动态代理的区别，什么场景使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/165)
+- **第 150 期**：[**在Kotlin中，何为解构？该如何使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/164)
+- **第 149 期**：[**PathClassLoader和DexClassLoader有何区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/163)
+- **第 148 期**：[**说说你对Java注解的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/162)
+- **第 147 期**：[**请谈谈Fragment的生命周期？**](https://github.com/Moosphan/Android-Daily-Interview/issues/161)
+- **第 146 期**：[**谈一谈LeakCanray的工作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/160)
+- **第 145 期**：[**如何获取Android设备唯一ID？**](https://github.com/Moosphan/Android-Daily-Interview/issues/159)
+- **第 144 期**：[**谈谈如何看待Flutter，React Native与Android关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/158)
+- **第 143 期**：[**请简述Apk的安装过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/157)
+- **第 142 期**：[**getDimension、getDimensionPixelOffset 和 getDimensionPixelSize 三者的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/156)
+- **第 141 期**：[**说说ContentProvider、ContentResolver、ContentObserver 之间的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/155)
+- **第 140 期**：[**如何优化 Gradle 的构建速度？**](https://github.com/Moosphan/Android-Daily-Interview/issues/154)
+- **第 139 期**：[**String为什么要设计成不可变的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/153)
+- **第 138 期**：[**有没有遇到64k问题，应该如何解决？**](https://github.com/Moosphan/Android-Daily-Interview/issues/152)
+- **第 137 期**：[**Intent传输数据的大小有限制吗？如何解决？**](https://github.com/Moosphan/Android-Daily-Interview/issues/151)
+- **第 136 期**：[**谈谈安卓apk构建的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/150)
+- **第 135 期**：[**请简要谈谈Android系统的架构组成？**](https://github.com/Moosphan/Android-Daily-Interview/issues/149)
+- **第 134 期**：[**谈一谈插值器和估值器？**](https://github.com/Moosphan/Android-Daily-Interview/issues/148)
+- **第 133 期**：[**什么是红黑树？为什么要用红黑树？**](https://github.com/Moosphan/Android-Daily-Interview/issues/147)
+- **第 132 期**：[**你觉得Kotlin与Java混合开发时需要注意哪些问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/146)
+- **第 131 期**：[**谈谈Android10更新了哪些内容?如何进行适配?**](https://github.com/Moosphan/Android-Daily-Interview/issues/145)
+- **第 130 期**：[**如何计算一张图片所占的内存空间大小？**](https://github.com/Moosphan/Android-Daily-Interview/issues/144)
+- **第 129 期**：[**请谈谈策略模式原理及其应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/143)
+- **第 128 期**：[**什么是JNI？具体说说如何实现Java与C++的互调？**](https://github.com/Moosphan/Android-Daily-Interview/issues/142)
+- **第 127 期**：[**请谈谈Java的内存回收机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/141)
+- **第 126 期**：[**Kotlin中的可见性修饰符有哪些？相比于Java有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/140)
+- **第 125 期**：[**MVP中你是如何处理Presenter层以防止内存泄漏的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/139)
+- **第 124 期**：[**Activity中onNewIntent方法的调用时机和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/138)
+- **第 123 期**：[**什么是悲观锁和乐观锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/133)
+- **第 122 期**：[**请谈谈你是如何进行多渠道打包的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/132)
+- **第 121 期**：[**谈一谈获取View宽高的几种方法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
+- **第 120 期**：[**为什么推荐用SparseArray代替HashMap？**](https://github.com/Moosphan/Android-Daily-Interview/issues/130)
+- **第 119 期**：[**谈一谈TCP/IP三次握手，四次挥手？**](https://github.com/Moosphan/Android-Daily-Interview/issues/129)
 - **第 118 期**：[**Kotlin 中 infix 关键字的原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/128)
 - **第 117 期**：[**说一说数组和链表的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/127)
 - **第 116 期**：[***`View.post()`* 为什么可以获取到宽高信息？**](https://github.com/Moosphan/Android-Daily-Interview/issues/126)
@@ -160,6 +258,5 @@
 ## 最后
 
 > 建立这个项目的初衷是想大家每天以**答题打卡**的方式来巩固基础知识和查漏补缺。我相信，如果每天能够坚持打卡，不出一个月定能意识到自己的成长。因此，对于想要和我们一样坚持的同学，欢迎来加群探讨，群号**713463651**，请特别备注：**坚持打卡**。
-
 
 
